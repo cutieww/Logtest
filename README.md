@@ -7,7 +7,7 @@ The code contains multiple get and set methods for those atributes: ipAddress, d
 The code contians a main class for reading file, test objects and answer given questions.
 
 
-# How to Run the code
+## How to Run the code
 It's just a simple piece of java code. You could just run it on your terminal:
 
 go to the path that you downloaded the code
