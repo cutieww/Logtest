@@ -1,4 +1,4 @@
-# Logtest
+# Take Home Test
 
 This is Take Home Test from Mantel Group
 
